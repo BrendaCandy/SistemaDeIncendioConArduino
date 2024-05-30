@@ -1,5 +1,5 @@
 # **Proyecto: Sistema de Incendio con Arduino**
-![Tinkercad](imagenproyecto.png)
+![Tinkercad](https://github.com/BrendaCandy/SistemaDeIncendioConArduino/blob/main/img/imagenproyecto.png)
 
 ## Integrantes 
 - Brenda Candy
@@ -67,23 +67,23 @@ bool leerSistema()
 ~~~
 ## Componentes
 ### *Buzzer*
-![buzzer](img\buzzer.png)
+![buzzer](https://github.com/BrendaCandy/SistemaDeIncendioConArduino/blob/main/img/buzzer.png)
 
 Un tipo de zumbador que emite ruido en distintas frecuencias. En este proyecto lo utilizamos como alarma una vez que la temperatura supera los 60°C.
 ### *Sensor de Temperatura*
-![sensor](img\sensortemp.png)
+![sensor](https://github.com/BrendaCandy/SistemaDeIncendioConArduino/blob/main/img/sensortemp.png)
 
 Un sensor que genera voltajes segun la temperatura ambiente.
 ### *Display 7 Segmentos*
-![display](img\display.png)
+![display](https://github.com/BrendaCandy/SistemaDeIncendioConArduino/blob/main/img/display.png)
 
 Un único LED de 7 segmentos para mostrar una serie de numeros.Lo utilizamos para mostrar los niveles de temperatura a partir de los cuales se considera que hay un incendio
 ### *Leds*
-![leds](img\leds.png)
+![leds](https://github.com/BrendaCandy/SistemaDeIncendioConArduino/blob/main/img/leds.png)
 
 Los dos led cumplen un patron de luces solo cuando la alarma suena.
 ### *Pulsador*
-![pulsador](img\botones.png)
+![pulsador](https://github.com/BrendaCandy/SistemaDeIncendioConArduino/blob/main/img/botones.png)
 
 Un conmutador que cierra un circuito cuando se presiona. Agregamos dos pulsadores para manejar el activamiento y desactivamiento del sistema.
 
