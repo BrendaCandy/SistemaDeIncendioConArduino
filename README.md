@@ -1,5 +1,5 @@
 # **Proyecto: Sistema de Incendio con Arduino**
-![Tinkercad](img\imagenproyecto.png)
+![Tinkercad](imagenproyecto.png)
 
 ## Integrantes 
 - Brenda Candy
