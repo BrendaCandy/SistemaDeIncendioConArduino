@@ -36,7 +36,6 @@ void setup()
   }
   pinMode(BOTONPRENDIDO,INPUT_PULLUP);
   pinMode(BOTONAPAGADO,INPUT_PULLUP);
-  pinMode(SENSOR,INPUT);
   Serial.begin(9600);
 }
 
